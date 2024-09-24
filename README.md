@@ -1,0 +1,2 @@
+# Document-Retrieval-and-Querying-Vector-Data-Base-FAISS-using-LangChain-and-Hugging-Face-Embeddings
+This repository demonstrates how to retrieve and query documents using LangChain's text splitting and vector store capabilities. The workflow includes loading a document, splitting it into manageable chunks, embedding the text using Hugging Face models, and storing the embeddings in FAISS for efficient similarity searches. 
